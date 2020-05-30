@@ -1,7 +1,7 @@
 
 ## Welcome to My Data Science Portfolio
 
-You can use [this link](the whole soccer league Classifier-Copy1.md) to preview my first project!
+You can use [this link](classifierMDfile.md) to preview my first project!
 
 My first project looks at a data set containing soccer game results. I use a classifier to predict whether the team won or lost.
 
