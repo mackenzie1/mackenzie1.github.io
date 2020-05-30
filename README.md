@@ -1,8 +1,8 @@
 ## Welcome to My Data Science Portfolio
 
-You can use the [editor on GitHub](https://github.com/mackenzie1/mackenzie1.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can use [this link](https://github.com/mackenzie1/mackenzie1.github.io/edit/master/README.md) to preview my first project!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My first project looks at a data set containing soccer game results. I use a classifier to predict whether the team won or lost.
 
 ### Markdown
 
