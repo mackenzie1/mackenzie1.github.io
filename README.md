@@ -1,3 +1,4 @@
+
 ## Welcome to My Data Science Portfolio
 
 You can use [this link](https://github.com/mackenzie1/mackenzie1.github.io/edit/master/README.md) to preview my first project!
@@ -25,7 +26,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
+![](Lava_Lamp__2817.gif)
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
