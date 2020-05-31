@@ -12,6 +12,8 @@ In this project I explore a data set containing soccer game results using a jupy
 - [Examples](#examples)
 - [Review of the Steps](#review-of-the-steps)
 - [Short Comings](#short-comings)
+
+## Import the data
 ```python
 from datascience import *
 import numpy as np
