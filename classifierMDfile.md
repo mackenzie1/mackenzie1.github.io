@@ -1,10 +1,10 @@
-## Soccer - Nearest Neighbor For Classification
+# Soccer - Nearest Neighbor For Classification
 
 This project explores a data set containing information about the results of soccer games. The data set contains 380 rows and 23 columns.
-### Overview
+## Overview
 In this project I explore a data set containing soccer game results using a jupyter notebook. I remove all columns not containing numbers and take the "FTR" column or full time results and assign win/lose/draw a number value. Next I plot the data on a scatter plot. Finally we can start building the classifier. I use a distance function to determine which points lie closest to our example point. After this we can chose how many points we want to compare our point to so we can make a prediction. 
 <br/>_Note:This code was used in a class assignment that I modified for this data set. Also the comments within the code refrencing manchester united or manU was from a previous inquiry exploring selecting a single team and predicting for that one team._
-## Home Shots vs Away Shots
+### Home Shots vs Away Shots
 1 = win 0 = draw -1 = lose
 ![png](output_11_0.png)
 ### Table of contents
@@ -16,7 +16,7 @@ In this project I explore a data set containing soccer game results using a jupy
 - [Review of the Steps](#review-of-the-steps)
 - [Short Comings](#short-comings)
 
-## Import the data
+### Import the data
 ```python
 from datascience import *
 import numpy as np
