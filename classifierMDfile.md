@@ -8,10 +8,10 @@ Here i will explain basically the whole thing in words anyone can understand
 - [PreProcessing](##preProcessing)
 - [Visualization](##visualization)
 - [Distance Function](##distance)
-- [The Classifier](##theClassifier)
+- [The Classifier](##the-classifier)
 - [Examples](##examples)
-- [Review of the Steps](##reviewOfTheSteps)
-- [Short Comings](##shortComings)
+- [Review of the Steps](##review-of-the-steps)
+- [Short Comings](##short-comings)
 ```python
 from datascience import *
 import numpy as np
