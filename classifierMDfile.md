@@ -5,13 +5,13 @@ This project explores a data set containing information about the results of soc
 Here i will explain basically the whole thing in words anyone can understand
 
 ### Table of contents
-- [PreProcessing](##preProcessing)
-- [Visualization](##visualization)
-- [Distance Function](##distance)
-- [The Classifier](##the-classifier)
-- [Examples](##examples)
-- [Review of the Steps](##review-of-the-steps)
-- [Short Comings](##short-comings)
+- [PreProcessing](#preProcessing)
+- [Visualization](#visualization)
+- [Distance Function](#distance)
+- [The Classifier](#the-classifier)
+- [Examples](#examples)
+- [Review of the Steps](#review-of-the-steps)
+- [Short Comings](#short-comings)
 ```python
 from datascience import *
 import numpy as np
