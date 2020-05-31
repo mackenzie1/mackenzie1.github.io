@@ -6,12 +6,12 @@ Here i will explain basically the whole thing in words anyone can understand
 
 ### Table of contents
 - [PreProcessing](##preProcessing)
-- [Visualization](##Visualization)
-- [Distance Function](##Distance)
-- [The Classifier](##TheClassifier)
-- [Examples](##Examples)
-- [Review of the Steps](##ReviewOfTheSteps)
-- [Short Comings](##ShortComings)
+- [Visualization](##visualization)
+- [Distance Function](##distance)
+- [The Classifier](##theClassifier)
+- [Examples](##examples)
+- [Review of the Steps](##reviewOfTheSteps)
+- [Short Comings](##shortComings)
 ```python
 from datascience import *
 import numpy as np
