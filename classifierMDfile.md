@@ -1,4 +1,4 @@
-## Soccer Nearest Neighbor For Classification
+## Soccer - Nearest Neighbor For Classification
 
 This project explores a data set containing information about the results of soccer games. The data set contains 380 rows and 23 columns.
 ### Overview
