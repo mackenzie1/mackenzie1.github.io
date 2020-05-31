@@ -2,7 +2,7 @@
 
 This project explores a data set containing information about the results of soccer games. The data set contains 380 rows and 23 columns.
 ### Overview
-Here i will explain basically the whole thing in words anyone can understand
+In this project I explore a data set containing soccer game results using a jupyter notebook. I remove all columns not containing numbers and take the "FTR" column or full time results and assign win/lose/draw a number value. Next I plot the data on a scatter plot. Finally we can start building the classifier. I use a distance function to determine which points lie closest to our example point. After this we can chose how many points we want to compare our point to so we can make a prediction. 
 
 ### Table of contents
 - [PreProcessing](#preProcessing)
