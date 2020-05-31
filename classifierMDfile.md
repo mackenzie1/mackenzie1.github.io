@@ -1,7 +1,10 @@
 ## Soccer Classification
 
 This project explores a data set containing information about the results of soccer games. The data set contains 380 rows and 23 columns.
+### Overview
+Here i will explain basically the whole thing in words anyone can understand
 
+### Table of contents
 ```python
 from datascience import *
 import numpy as np
