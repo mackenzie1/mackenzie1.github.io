@@ -5,10 +5,12 @@ You can use this link to preview my [first project!](classifierMDfile.md)
 
 My first project looks at a data set containing soccer game results. I use a classifier to predict whether the team won or lost.
 
-### Markdown
+### About Me
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I am an information systems major at UMBC. I will graduate with the class of 2021. My career aspirations include becoming a data scientist. Thank you for taking the time to look at my work! If you have an comments, constructive critisms, or fixes you would like to point out feel free to email h111@umbc.edu
 
+
+### Projects
 ```markdown
 Syntax highlighted code block
 
