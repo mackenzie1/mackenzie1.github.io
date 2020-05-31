@@ -6,7 +6,7 @@ In this project I explore a data set containing soccer game results using a jupy
 <br/>_Note:This code was used in a class assignment that I modified for this data set. Also the comments within the code refrencing manchester united or manU was from a previous inquiry exploring selecting a single team and predicting for that one team._
 
 ### Table of contents
-- [PreProcessing](#preProcessing)
+- [PreProcessing](#preprocessing)
 - [Visualization](#visualization)
 - [Distance Function](#distance)
 - [The Classifier](#the-classifier)
