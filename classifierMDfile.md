@@ -5,6 +5,7 @@ This project explores a data set containing information about the results of soc
 Here i will explain basically the whole thing in words anyone can understand
 
 ### Table of contents
+- [PreProcessing](##preProcessing)
 ```python
 from datascience import *
 import numpy as np
@@ -102,7 +103,7 @@ games
 </table>
 <p>... (370 rows omitted)</p>
 
-
+## PreProcessing
 
 
 ```python
