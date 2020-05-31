@@ -6,6 +6,12 @@ Here i will explain basically the whole thing in words anyone can understand
 
 ### Table of contents
 - [PreProcessing](##preProcessing)
+-[Visualization](##Visualization)
+-[Distance Function](##Distance)
+-[The Classifier](##The Classifier)
+-[Examples](##Examples)
+-[Review of the Steps](##Review Of The Steps)
+-[Short Comings](##Short Comings)
 ```python
 from datascience import *
 import numpy as np
@@ -459,7 +465,7 @@ games
 <p>... (370 rows omitted)</p>
 
 
-
+## Visualization
 
 ```python
 ##patients = Table.read_table(ckd).drop('ID')
@@ -606,7 +612,8 @@ games
 
 
 
-## Distance ##
+## Distance 
+This is the distance function to calculate the distance between two points or rows.
 
 
 ```python
@@ -690,8 +697,8 @@ row_distance(attributes.row(2), attributes.row(2))
 
 
 
-# The Classifier
-
+## The Classifier
+This is the actual classifier
 
 ```python
 def distances(training, example):
@@ -867,7 +874,7 @@ def classify(training, example, k):
     "Return the majority class among the k nearest neighbors of example"
     return majority_class(closest(training, example, k))
 ```
-
+## Examples
 
 ```python
 classify(games.exclude(18), example, 3)
@@ -975,7 +982,7 @@ games.take(15)
 
 
 
-## Review of the Steps ##
+## Review of the Steps 
 
 - `distance(pt1, pt2)`: Returns the distance between the arrays `pt1` and `pt2`
 - `row_distance(row1, row2)`: Returns the distance between the rows `row1` and `row2`
@@ -995,4 +1002,4 @@ print("Number of Columns: "+str(total_cols))
 
     Number of Rows: 380
     Number of Columns: 17
-
+## Short Comings
