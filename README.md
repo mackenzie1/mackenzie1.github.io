@@ -1,5 +1,5 @@
-# mackenzie1
-##My Portfolio
+# mackenzie1 - Mackenzie Harwood
+## My Portfolio
 This repository contains my portfolio! I will be posting my projects coming soon.
-##Projects
+### Projects
 1.[Soccer- Nearest Neighbor Classifier](classifierMDfile.md)
