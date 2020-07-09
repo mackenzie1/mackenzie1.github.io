@@ -8,9 +8,9 @@ mackenzie.harwood1@gmail.com
 #### Software - JGrasp, Windows 7/10/vista/XP/Mac OS, Microsoft Office/Excel , Photoshop, Powerpoint, Virtual Box
 #### Hardware - Computer Assembly/Disassembly, User Interface Hardware
 ### Academic Coursework
-Java Programing | Accounting| Foundations of Data Science
-----------------|-----------|------------------
-**Management in IS** | **Calculus** | **Statistics**
+|Java Programing | Accounting| Foundations of Data Science|
+---|---|---|
+|**Management in IS** | **Calculus** | **Statistics**|
 ### Work Experience 
 #### **Front End Developer Intert | websiteinnovator | June 1 2020 - August 1 2020**
   * Use design and code to build the frontend of ecommerce sites for small businesses
@@ -28,7 +28,7 @@ Java Programing | Accounting| Foundations of Data Science
   * Responsible for providing a fun and safe environment for all campers  
 #### **Lifeguard | City of Gaithersburg | May 2016-August 2016**
   * Responsible for monitoring swimmers and provide proper care in emergencies.
-#### **Poll Worker/Montgomery County Board of Elections | November 2017**
+#### **Poll Worker|Montgomery County Board of Elections | November 2017**
 ### Extracurricular Activities
 * UMBC Hackthon 2019                * UMD Data Challenge 2020
 
