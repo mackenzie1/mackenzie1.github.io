@@ -30,5 +30,6 @@ mackenzie.harwood1@gmail.com
   * Responsible for monitoring swimmers and provide proper care in emergencies.
 #### **Poll Worker|Montgomery County Board of Elections | November 2017**
 ### Extracurricular Activities
-* UMBC Hackthon 2019                * UMD Data Challenge 2020
+* UMBC Hackthon 2019 
+* UMD Data Challenge 2020
 
