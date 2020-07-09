@@ -12,21 +12,21 @@ Java Programing | Accounting| Foundations of Data Science
 **Management in IS** | **Calculus** | **Statistics**
 ### Work Experience 
 ###### Front End Developer Intert | websiteinnovator | June 1 2020 - August 1 2020
-    -Use design and code to build the frontend of ecommerce sites for small businesses
+    * Use design and code to build the frontend of ecommerce sites for small businesses
 ###### Data Science Undergrad Research Intern | UMBC IS Department| January 3 2020- July 24 2020
-    -Use data to generate information used to improve the quality of  in Baltimore    
+    * Use data to generate information used to improve the quality of  in Baltimore    
 ###### It Support Person | UMBC Facilities Management | August 28, 2019 - Present
-    -Provide technical support for staff of  80+ members.
-    -Trouble shoot and resolve issues covering a wide range of technical problems.
-    -Create documentation for user instruction
-    -Create knowledge repository for issues and resolutions
+    * Provide technical support for staff of  80+ members.
+    * Trouble shoot and resolve issues covering a wide range of technical problems.
+    * Create documentation for user instruction
+    * Create knowledge repository for issues and resolutions
 ###### Production Technician | Daly Computers | May 28, 2019 - August 23, 2019
-    -Image, test, and configure hardware components.
-    -Inspect equipment and ensure they are of accurate quantity, type, and also   acceptable quality.
+    * Image, test, and configure hardware components.
+    * Inspect equipment and ensure they are of accurate quantity, type, and also   acceptable quality.
 ###### Senior Counselor | Bretton Woods | May 2018-August 2018
-    -Responsible for providing a fun and safe environment for all campers  
+    * Responsible for providing a fun and safe environment for all campers  
 ###### Lifeguard | City of Gaithersburg | May 2016-August 2016
-    -  Responsible for monitoring swimmers and provide proper care in emergencies.
+    * Responsible for monitoring swimmers and provide proper care in emergencies.
 ###### Poll Worker/Montgomery County Board of Elections | November 2017
 ### Extracurricular Activities
 * UMBC Hackthon 2019                * UMD Data Challenge 2020
