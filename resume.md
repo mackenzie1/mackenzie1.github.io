@@ -26,7 +26,7 @@ Java Programing | Accounting| Foundations of Data Science
   * Inspect equipment and ensure they are of accurate quantity, type, and also   acceptable quality.
 #### **Senior Counselor | Bretton Woods | May 2018-August 2018**
   * Responsible for providing a fun and safe environment for all campers  
-#### ** Lifeguard | City of Gaithersburg | May 2016-August 2016**
+#### **Lifeguard | City of Gaithersburg | May 2016-August 2016**
   * Responsible for monitoring swimmers and provide proper care in emergencies.
 #### **Poll Worker/Montgomery County Board of Elections | November 2017**
 ### Extracurricular Activities
