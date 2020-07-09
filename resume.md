@@ -8,6 +8,7 @@ Software - JGrasp, Windows 7/10/vista/XP/Mac OS, Microsoft Office/Excel , Photos
 Hardware - Computer Assembly/Disassembly, User Interface Hardware
 ### Academic Coursework
 Java Programing | Accounting| Foundations of Data Science
+----------------|-----------|------------------
 Management in IS | Calculus | Statistics
 ### Work Experience 
 Data Science Undergrad Research Intern | UMBC IS Department| January 3 2020-Present
