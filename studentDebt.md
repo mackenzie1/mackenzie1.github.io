@@ -7,4 +7,6 @@ This project was built in java and uses four different classes: StudentDebtCalcu
 # Monthly Payments Over Time
 ![image](https://user-images.githubusercontent.com/49001843/87090593-3d2a5c00-c206-11ea-8e98-081966e999b8.png)
 # Accumulated Intrest
-
+![image](https://user-images.githubusercontent.com/49001843/87090798-8bd7f600-c206-11ea-8d27-c075c2cd0cf8.png)
+# Improvements
+There are many things I would do differently if I did this project again. I would try to add more calculations specifically, ones for those out of college instead of focusing on students heading into college. Also I would love to create a GUI for this. I would be really cool to add graphs and animations for the graphs to display the information instead of doing everything with the command line.
