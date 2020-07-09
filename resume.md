@@ -9,7 +9,7 @@ Hardware - Computer Assembly/Disassembly, User Interface Hardware
 ### Academic Coursework
 Java Programing | Accounting| Foundations of Data Science
 ----------------|-----------|------------------
-Management in IS | Calculus | Statistics
+**Management in IS** | **Calculus*** | **Statistics**
 ### Work Experience 
 Data Science Undergrad Research Intern | UMBC IS Department| January 3 2020-Present
     -Use data to generate information used to improve the quality of  in Baltimore    
