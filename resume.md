@@ -1,5 +1,6 @@
-#Mackenzie Harwood
+# Mackenzie Harwood
 mackenzie.harwood1@gmail.com 
+## [Home](README.md)
 ### Education
 ###### University of Maryland Baltimore County  Information Systems Major | 3.31 GPA  |  Graduation 2021
 ###### Frostburg State University | 21 Credits Transferred | August 2017 - May 2018
