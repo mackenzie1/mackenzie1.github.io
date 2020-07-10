@@ -1,6 +1,10 @@
 # Mackenzie1 - Mackenzie Harwood
 ## My Portfolio
 This repository contains my portfolio! You can click [here](https://mackenzie1.github.io/mackenzie1/) to view this information in an aesthetically pleasing format. I will be posting my projects coming soon.
+> Tell me and I forget, 
+> teach me and I may remember, 
+> involve me and I learn.
+Benjamin Franklin
 ### [Resume](resume.md)
 ### Projects
 * 1.[Soccer- Nearest Neighbor Classifier](classifierMDfile.md)
