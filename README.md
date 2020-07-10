@@ -5,6 +5,7 @@ Benjamin Franklin-
 > Tell me and I forget, 
 > teach me and I may remember, 
 > involve me and I learn.
+</br>
 ### [Resume](resume.md)
 ### Projects
 * 1.[Soccer- Nearest Neighbor Classifier](classifierMDfile.md)
