@@ -9,7 +9,8 @@ mackenzie.harwood1@gmail.com
 #### Hardware - Computer Assembly/Disassembly, User Interface Hardware
 ### Academic Coursework
 |Java Programing | Accounting| Foundations of Data Science|
-|**Management in IS** | **Calculus** | **Statistics**|
+|:---:|:---:|:---:|
+|Management in IS | Calculus | Statistics|
 ### Work Experience 
 #### **Front End Developer Intert | websiteinnovator | June 1 2020 - August 1 2020**
   * Use design and code to build the frontend of ecommerce sites for small businesses
