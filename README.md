@@ -4,7 +4,8 @@ This repository contains my portfolio! You can click [here](https://mackenzie1.g
 Benjamin Franklin-
 > Tell me and I forget, 
 > teach me and I may remember, 
-> involve me and I learn.</br>
+> involve me and I learn.
+</br>
 
 ### [Resume](resume.md)
 ### Projects
