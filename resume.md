@@ -8,9 +8,15 @@ mackenzie.harwood1@gmail.com
 #### Software - JGrasp, Windows 7/10/vista/XP/Mac OS, Microsoft Office/Excel , Photoshop, Powerpoint, Virtual Box
 #### Hardware - Computer Assembly/Disassembly, User Interface Hardware
 ### Academic Coursework
+<style>
+.tablelines table, .tablelines td, .tablelines th {
+        border: 1px solid black;
+        }
+ </style>
 |Java Programing | Accounting| Foundations of Data Science|
 |:---:|:---:|:---:|
 |Management in IS | Calculus | Statistics|
+{: .tablelines}
 ### Work Experience 
 #### **Front End Developer Intert | websiteinnovator | June 1 2020 - August 1 2020**
   * Use design and code to build the frontend of ecommerce sites for small businesses
