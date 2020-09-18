@@ -1,3 +1,8 @@
+<style>
+.tablelines table, .tablelines td, .tablelines th {
+        border: 1px solid black;
+        }
+ </style>
 # Soccer - Nearest Neighbor For Classification
 # [Home](README.md)
 This project explores a data set containing information about the results of soccer games. The data set contains 380 rows and 23 columns.
@@ -113,7 +118,7 @@ games
     </tbody>
 </table>
 <p>... (370 rows omitted)</p>
-
+{: .tablelines}
 ## PreProcessing
 
 
@@ -170,8 +175,7 @@ teams.show(5)
     </tbody>
 </table>
 <p>... (375 rows omitted)</p>
-
-
+{: .tablelines}
 
 ```python
 
@@ -232,7 +236,7 @@ teams.group('HomeTeam')
     </tbody>
 </table>
 <p>... (10 rows omitted)</p>
-
+{: .tablelines}
 
 
 
@@ -296,7 +300,7 @@ games
     </tbody>
 </table>
 <p>... (370 rows omitted)</p>
-
+{: .tablelines}
 
 
 
@@ -331,7 +335,7 @@ wins
         </tr>
     </tbody>
 </table>
-
+{: .tablelines}
 
 
 
@@ -405,7 +409,7 @@ games
 </table>
 <p>... (370 rows omitted)</p>
 
-
+{: .tablelines}
 
 
 ```python
@@ -468,7 +472,7 @@ games
     </tbody>
 </table>
 <p>... (370 rows omitted)</p>
-
+{: .tablelines}
 
 ## Visualization
 
