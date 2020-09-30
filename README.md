@@ -16,11 +16,11 @@ This repository contains my portfolio! You can click [here](https://mackenzie1.g
 # Resume
 mackenzie.harwood1@gmail.com 
 ### Education
-#### University of Maryland Baltimore County  Information Systems Major | 3.31 GPA  |  Graduation 2021
-#### Frostburg State University | 21 Credits Transferred | August 2017 - May 2018
+#### **University of Maryland Baltimore County  Information Systems Major | 3.31 GPA  |  Graduation 2021**
+#### **Frostburg State University | 21 Credits Transferred | August 2017 - May 2018**
 ### Skills
-#### Software - Intellij, Windows 10, Microsoft Office/Excel , Photoshop, Virtual Box, Active Directory, Visual Studio
-#### Hardware - Computer Assembly/Disassembly, User Interface Hardware, Memory Upgrades
+#### **Software - Intellij, Windows 10, Microsoft Office/Excel , Photoshop, Virtual Box, Active Directory, Visual Studio**
+#### **Hardware - Computer Assembly/Disassembly, User Interface Hardware, Memory Upgrades**
 ### Academic Coursework
 <style>
 .tablelines table, .tablelines td, .tablelines th {
