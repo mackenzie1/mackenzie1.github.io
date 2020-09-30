@@ -12,9 +12,8 @@ Benjamin Franklin-
 ### Projects
 * 1.[Soccer- Nearest Neighbor Classifier](classifierMDfile.md)
 * 2.[Student Debt Calculator](studentDebt.md)
-### Resume
+# Resume
 mackenzie.harwood1@gmail.com 
-
 ### Education
 #### University of Maryland Baltimore County  Information Systems Major | 3.31 GPA  |  Graduation 2021
 #### Frostburg State University | 21 Credits Transferred | August 2017 - May 2018
