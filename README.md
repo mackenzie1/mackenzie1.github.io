@@ -2,10 +2,10 @@
 ## Welcome To Makenzie's Portfolio
 This repository contains my portfolio! You can click [here](https://mackenzie1.github.io/mackenzie1/) or use [https://mackenzie1.github.io/mackenzie1/](https://mackenzie1.github.io/mackenzie1/) to view this information in an aesthetically pleasing format. I will be posting my projects coming soon.
 
-Benjamin Franklin-
-> Tell me and I forget, 
-> teach me and I may remember, 
-> involve me and I learn.
+Cory House-
+> Code is like humor. When you have to explain it, it’s bad.
+> When you have to explain it, it’s bad. 
+
 
 
 
