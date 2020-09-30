@@ -3,7 +3,7 @@
 This repository contains my portfolio! You can click [here](https://mackenzie1.github.io/mackenzie1/) or use [https://mackenzie1.github.io/mackenzie1/](https://mackenzie1.github.io/mackenzie1/) to view this information in an aesthetically pleasing format. I will be posting my projects coming soon.
 
 Cory House-
-> Code is like humor. When you have to explain it, it’s bad.
+> Code is like humor. 
 > When you have to explain it, it’s bad. 
 
 
