@@ -1,6 +1,6 @@
 
 ## Welcome To Makenzie's Portfolio
-This repository contains my portfolio! You can click [here](https://mackenzie1.github.io/mackenzie1/) to view this information in an aesthetically pleasing format. I will be posting my projects coming soon.<br/>
+This repository contains my portfolio! You can click [here](https://mackenzie1.github.io/mackenzie1/) or use [https://mackenzie1.github.io/mackenzie1/](https://mackenzie1.github.io/mackenzie1/) to view this information in an aesthetically pleasing format. I will be posting my projects coming soon.<br/>
 Benjamin Franklin-
 > Tell me and I forget, 
 > teach me and I may remember, 
