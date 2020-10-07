@@ -10,8 +10,9 @@ This repository contains my portfolio! You can click [here](https://mackenzie1.g
 
 
 ## Projects
-* 1.[Soccer- Nearest Neighbor Classifier](classifierMDfile.md)
-* 2.[Student Debt Calculator](studentDebt.md)
+* [JavaFX Traffic Light]
+* [Soccer- Nearest Neighbor Classifier](classifierMDfile.md)
+* [Student Debt Calculator](studentDebt.md)
 
 # Resume
 mackenzie.harwood1@gmail.com 
