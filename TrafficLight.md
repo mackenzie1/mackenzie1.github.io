@@ -1,8 +1,9 @@
 This was created as a project to practice with java gui. The code outputs a traffic light with three buttons on the bottom for red, yellow, and green.
+
 ![image](green.PNG)
 ![image](yellow.png)
-![image](red
-.png)
+![image](red.png)
+
 ```java
 import javafx.application.Application;
 import javafx.geometry.Insets;
