@@ -2,7 +2,7 @@ This was created as a project to practice with java gui. The code outputs a traf
 
 ![image](green.PNG)
 ![image](red.PNG)
-![image](light.PNG)
+![image](yellow.PNG)
 
 ```java
 import javafx.application.Application;
