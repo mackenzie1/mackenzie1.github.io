@@ -1,6 +1,6 @@
 
 
-show_downloads: [true]
+show_downloads: [false]
 title: [Welcome to Mackenzie's Portfolio]
 description: [The purpose of this website is to test my skills and show off what I know!]
 google_analytics: [UA-179365461-1]
