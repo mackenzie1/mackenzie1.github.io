@@ -3,7 +3,7 @@ This was created as a project to practice with java gui. The code outputs a traf
 ![image](green.PNG)
 ![image](red.PNG)
 ![image](yellow.PNG)
-
+## Imports
 ```java
 import javafx.application.Application;
 import javafx.geometry.Insets;
@@ -18,6 +18,12 @@ import javafx.scene.layout.StackPane;
 import javafx.scene.paint.Color;
 import javafx.stage.Stage;
 import javafx.scene.shape.*;
+```
+## Creating Basic Ingredients
+
+Here I create a stage. I also create a Stack Pane and Rectange objects. 
+
+```
 public class TrafficLight extends Application {
     public static void main(String[] args) {
         launch(args);
