@@ -3,9 +3,8 @@
 This repository contains my portfolio! You can click [here](https://mackenzie1.github.io/mackenzie1/) or use [https://mackenzie1.github.io/mackenzie1/](https://mackenzie1.github.io/mackenzie1/) to view this information in an aesthetically pleasing format. I will be posting more projects coming soon.
 
 
-> Code is like humor. 
-> When you have to explain it, it’s bad. - Cory House
-
+> Never trust a computer you can’t throw out a window.
+> — Steve Wozniak
 
 
 
