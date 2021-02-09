@@ -23,9 +23,9 @@ mackenzie.harwood1@gmail.com
 #### **Hardware - Computer Assembly/Disassembly, User Interface Hardware, Memory Upgrades**
 ### Academic Coursework
 
-|<span style="font-weight:normal">Java Programing</span> | Accounting| Foundations of Data Science|
+|<span style="font-weight:normal">Java Programing</span> | <span style="font-weight:normal">Accounting</span>| <span style="font-weight:normal">Foundations of Data Science</span>|
 |:---:|:---:|:---:|
-|Management in IS | Calculus | Statistics|
+|Networking | Calculus | Databases|
 
 ### Work Experience 
   
