@@ -33,17 +33,22 @@ mackenzie.harwood1@gmail.com
 |Management in IS | Calculus | Statistics|
 {: .tablelines}
 ### Work Experience 
-#### **Front End Developer Intert | websiteinnovator | June 1 2020 - August 1 2020**
-  * Use design and code to build the frontend of ecommerce sites for small businesses
   
 #### **Data Science Undergrad Research Intern | UMBC IS Department| January 3 2020- July 24 2020**
-  * Use data to generate information used to improve the quality of  in Baltimore    
+  * Use data to generate information used to improve the quality of  in Baltimore
+  * [Project Website](https://datasciencecorps.umbc.edu/)
   
 #### **It Support Person | UMBC Facilities Management | August 28, 2019 - Present**
   * Provide technical support for staff of  80+ members.
   * Trouble shoot and resolve issues covering a wide range of technical problems.
   * Create documentation for user instruction
   * Create knowledge repository for issues and resolutions
+  
+#### **Technology Intern | DOCEO | December 21, 2020 - May 2021**
+  * Assist with creating a viable business plan and begin early stages of devolping a technology service
+  
+#### **Front End Developer Intert | websiteinnovator | June 1 2020 - August 1 2020**
+  * Use design and code to build the frontend of ecommerce sites for small businesses
   
 #### **Production Technician | Daly Computers | May 28, 2019 - August 23, 2019**
   * Image, test, and configure hardware components.
