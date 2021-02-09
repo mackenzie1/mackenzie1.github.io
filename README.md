@@ -22,15 +22,11 @@ mackenzie.harwood1@gmail.com
 #### **Software - Photoshop, Virtual Box, Visual Studio, IntelliJ, Active Directory**
 #### **Hardware - Computer Assembly/Disassembly, User Interface Hardware, Memory Upgrades**
 ### Academic Coursework
-<style>
-.tablelines table, .tablelines td, .tablelines th {
-        border: 1px solid black;
-        }
- </style>
+
 |<span style="font-weight:normal">Java Programing</span> | Accounting| Foundations of Data Science|
 |:---:|:---:|:---:|
 |Management in IS | Calculus | Statistics|
-{: .tablelines}
+
 ### Work Experience 
   
 #### **Data Science Undergrad Research Intern | UMBC IS Department| January 3 2020- July 24 2020**
