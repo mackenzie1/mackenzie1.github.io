@@ -27,7 +27,7 @@ mackenzie.harwood1@gmail.com
         border: 1px solid black;
         }
  </style>
-|Java Programing | Accounting| Foundations of Data Science|
+|<span style="font-weight:normal">Java Programing</span> | Accounting| Foundations of Data Science|
 |:---:|:---:|:---:|
 |Management in IS | Calculus | Statistics|
 {: .tablelines}
