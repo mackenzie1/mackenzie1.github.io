@@ -9,7 +9,7 @@ This repository contains my portfolio! You can click [here](https://mackenzie1.g
 
 
 
-## Projects
+# Projects
 * [JavaFX Traffic Light](TrafficLight.md)
 * [Soccer- Nearest Neighbor Classifier](classifierMDfile.md)
 * [Student Debt Calculator](studentDebt.md)
