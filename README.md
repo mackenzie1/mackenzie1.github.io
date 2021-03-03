@@ -29,7 +29,7 @@ mackenzie.harwood1@gmail.com
 
 ### Work Experience 
   
-#### **Data Science Undergrad Research Intern | UMBC IS Department| January 3 2020- July 24 2020**
+#### **Data Science Undergrad Research Intern | UMBC IS Department| January 3 2020- May 1 2021**
   * Use data to generate information used to improve the quality of  in Baltimore
   * [Project Website](https://datasciencecorps.umbc.edu/)
   
