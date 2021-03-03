@@ -25,7 +25,7 @@ mackenzie.harwood1@gmail.com
 
 | <span style="font-weight:normal">Java Programing</span> | <span style="font-weight:normal">Accounting</span> | <span style="font-weight:normal">Foundations of Data Science</span> |
 |:---:|:---:|:---:|
-|Networking | Calculus | Databases|
+|<span style="font-weight:normal">Networking</span> | <span style="font-weight:normal">Calculus</span> | <span style="font-weight:normal">Databases</span>|
 
 ### Work Experience 
   
