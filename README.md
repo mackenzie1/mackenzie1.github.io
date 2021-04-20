@@ -62,4 +62,6 @@ mackenzie.harwood1@gmail.com
 * UMBC Hackthon 2019 
 * UMD Data Challenge 2020
 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="mackenzie-harwood-a896ab199" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/mackenzie-harwood-a896ab199?trk=profile-badge">Mackenzie Harwood</a></div>
+              
 ![](jokes.gif)
