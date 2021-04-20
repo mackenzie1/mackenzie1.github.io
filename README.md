@@ -15,6 +15,8 @@ This repository contains my portfolio! You can click [here](https://mackenzie1.g
 
 # Resume
 mackenzie.harwood1@gmail.com 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="mackenzie-harwood-a896ab199" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/mackenzie-harwood-a896ab199?trk=profile-badge">Mackenzie Harwood</a></div>
+Link to my linked in profile, feel free add me!
 ### Education
 #### **University of Maryland Baltimore County  Information Systems Major | 3.31 GPA  |  Graduation 2021**
 #### **Frostburg State University | 21 Credits Transferred | August 2017 - May 2018**
@@ -62,7 +64,7 @@ mackenzie.harwood1@gmail.com
 * UMBC Hackthon 2019 
 * UMD Data Challenge 2020
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="mackenzie-harwood-a896ab199" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/mackenzie-harwood-a896ab199?trk=profile-badge">Mackenzie Harwood</a></div>
+
               
               
 ![](jokes.gif)
