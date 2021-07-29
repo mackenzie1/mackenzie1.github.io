@@ -31,7 +31,7 @@ mackenzie.harwood1@gmail.com
 
 ### Work Experience 
  
-#### **Associate Technologist | CVP | June 7 2020 - Present
+#### **Associate Technologist | CVP | June 7 2020 - Present**
   * Work with Kubernetes and Docker to manage the deployment and maintenance of projects. 
 #### **Data Science Undergrad Research Intern | UMBC IS Department| January 3 2020- May 1 2021**
   * Use data to generate information used to improve the quality of  in Baltimore
