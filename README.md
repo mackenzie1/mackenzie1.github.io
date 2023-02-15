@@ -11,7 +11,7 @@
   </kbd>
 </p>
 
-
+![alt text](http://url/to/img.png)
 
 ## Sections 📚
 ✔️ About me\
