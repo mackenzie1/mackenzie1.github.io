@@ -6,7 +6,7 @@
 ### Website Preview
 <p align="center">
   <kbd>
-    <a href="https://mackenzie1.github.io" target="_blank"><img src="examples/preview.gif">
+    <a href="https://mackenzie1.github.io" target="_blank"><img src="img/screenshot.png">
   </a>
   </kbd>
 </p>
