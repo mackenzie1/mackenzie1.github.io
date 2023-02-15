@@ -4,14 +4,11 @@
 > https://mackenzie1.github.io
 
 ### Website Preview
-<p align="center">
-  <kbd>
-    <a href="https://mackenzie1.github.io" target="_blank"><img src="assets/img/screenshot.png">
-  </a>
-  </kbd>
-</p>
 
-![alt text](http://url/to/img.png)
+
+![screenshot](https://user-images.githubusercontent.com/49001843/219212138-1d8649b3-1159-49a8-94f9-293054d53870.PNG)
+
+
 
 ## Sections 📚
 ✔️ About me\
