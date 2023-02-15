@@ -116,7 +116,7 @@
 }
 
 .contactme:hover{
-  color: #00796b;
+  color: #005379;
   background-color: white;
 }
 /* main body */
@@ -140,7 +140,7 @@ body {
 } */
 
 a {
-  color: #0d11da;
+  color: #0408f7;
 }
 
 /* main blockqoute */
@@ -348,7 +348,7 @@ h3 {
 }
 
 #intro.section .underline {
-  border-bottom: 5px solid #24305e;
+  border-bottom: 5px solid #0c3af3;
 }
 
 #intro.section .teal {
