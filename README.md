@@ -27,4 +27,9 @@ To view a live example, **[click here](https://mackenzie1.github.io/)**
 * [<b>Typed.js</b>](https://mattboldt.com/demos/typed-js/) - JavaScript Library
 
 
+## Run Locally
+:skier: `npm start`
+
+:no_entry: `npm stop`
+
 
