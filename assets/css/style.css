@@ -12,7 +12,7 @@
   /* profile picture shadow color */
   margin: -31px; 
   margin-left:-7px;
-  border: 6px solid rgba(6, 112, 2, 0.4); 
+  border: 6px solid rgba(0, 150, 0, 1); 
   border-radius: 50% !important;
 }
 
@@ -117,7 +117,7 @@
 }
 
 .contactme:hover{
-  color: #007906;
+  color: #009600;
   background-color: white;
 }
 /* main body */
@@ -132,7 +132,7 @@ body {
 
 /* contact me link colors */
 a {
-  color: #008006;
+  color: #009600;
 }
 
 /* main blockqoute */
@@ -533,13 +533,13 @@ small {
 
 /* side bar text color */
 .teal-text {
-  color: #008006 !important;
+  color: #009600 !important;
 }
 
 
 /* color behind name text  */
 .teal {
-  background-color: #3fa815d7 !important;
+  background-color: #009600 !important;
 }
 
 
